@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\refint\OOP4_Dictionary.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\ref\OOP4_Dictionary.dll
